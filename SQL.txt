@@ -1,0 +1,1 @@
+SELECT EmployeeDetails.EmpId EmployeeSalary.EmpId
